@@ -44,7 +44,7 @@ The Factory Method pattern defines an interface for creating an object but allow
 - The implemented poker game achieves its goal of providing a quick and interactive poker hand experience.
 - Future prospects of the program include adding more advanced features such as more betting rounds, multiplayer support, improved AI opponent behavior, and enhanced graphical user interface.
 
-##Resources, References List:
+###Resources, References List:
 
 - [Treys Library Documentation](https://pypi.org/project/treys/)
 - Python Documentation for Language Features and Standard Library Functions.
